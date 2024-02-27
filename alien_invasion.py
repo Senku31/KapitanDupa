@@ -136,7 +136,6 @@ class AlienInvasion:
 
 
     def _start_game(self):
-        print("DDDDupa")
         self.settings.initialize_dynamic_settings()
         self.stats.reset_stats()
         self.game_active = True
